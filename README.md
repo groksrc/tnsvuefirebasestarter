@@ -2,6 +2,10 @@
 
 > A native application built with NativeScript-Vue
 
+TODO: Make sure that the android firebase dependencies are installed.
+They may need to be added to template/app/App_Resources/android/app.gradle
+May also need to `apply plugin: "com.google.gms.google-services"` somewhere.
+
 ## Usage
 
 ``` bash
