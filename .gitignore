@@ -1,0 +1,7 @@
+.vscode
+
+# NPM
+node_modules
+
+# NativeScript application
+/dist

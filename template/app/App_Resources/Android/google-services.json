@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "400459020656",
+    "firebase_url": "https://tns-vue-firebase-starter.firebaseio.com",
+    "project_id": "tns-vue-firebase-starter",
+    "storage_bucket": "tns-vue-firebase-starter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:400459020656:android:0b5e03482986497c",
+        "android_client_info": {
+          "package_name": "com.groksrc.tnsvuefirebasestarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "400459020656-8nl0c5p5pfogbcktup7vogt8juno8371.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt-ps7uj2ymSH1vTZP1qvPA3pgUp2eKcI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
