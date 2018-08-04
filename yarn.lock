@@ -366,9 +366,9 @@ babel-helpers@^6.24.1:
     babel-runtime "^6.22.0"
     babel-template "^6.24.1"
 
-babel-loader@^7.1.4:
-  version "7.1.4"
-  resolved "https://registry.yarnpkg.com/babel-loader/-/babel-loader-7.1.4.tgz#e3463938bd4e6d55d1c174c5485d406a188ed015"
+babel-loader@^7.1.5:
+  version "7.1.5"
+  resolved "https://registry.yarnpkg.com/babel-loader/-/babel-loader-7.1.5.tgz#e3ee0cd7394aa557e013b02d3e492bfd07aa6d68"
   dependencies:
     find-cache-dir "^1.0.0"
     loader-utils "^1.0.2"
@@ -1217,9 +1217,9 @@ copy-descriptor@^0.1.0:
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/copy-descriptor/-/copy-descriptor-0.1.1.tgz#676f6eb3c39997c2ee1ac3a924fd6124748f578d"
 
-copy-webpack-plugin@^4.5.1:
-  version "4.5.1"
-  resolved "https://registry.yarnpkg.com/copy-webpack-plugin/-/copy-webpack-plugin-4.5.1.tgz#fc4f68f4add837cc5e13d111b20715793225d29c"
+copy-webpack-plugin@^4.5.2:
+  version "4.5.2"
+  resolved "https://registry.yarnpkg.com/copy-webpack-plugin/-/copy-webpack-plugin-4.5.2.tgz#d53444a8fea2912d806e78937390ddd7e632ee5c"
   dependencies:
     cacache "^10.0.4"
     find-cache-dir "^1.0.0"
@@ -2887,9 +2887,9 @@ nativescript-hook@~0.2.0:
     glob "^6.0.1"
     mkdirp "^0.5.1"
 
-nativescript-plugin-firebase@^6.3.0:
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/nativescript-plugin-firebase/-/nativescript-plugin-firebase-6.3.0.tgz#4e7902fdca3f18802cc02cf6fe6eefb5fadbab5e"
+nativescript-plugin-firebase@^6.4.0:
+  version "6.4.0"
+  resolved "https://registry.yarnpkg.com/nativescript-plugin-firebase/-/nativescript-plugin-firebase-6.4.0.tgz#fa4fc6d9541868e108a34c6ae1484191ebc377a4"
   dependencies:
     fs-extra "~2.1.0"
     nativescript-hook "~0.2.0"
@@ -4459,15 +4459,15 @@ timers-browserify@^2.0.4:
   dependencies:
     setimmediate "^1.0.4"
 
-tns-core-modules-widgets@3.4.0:
-  version "3.4.0"
-  resolved "https://registry.yarnpkg.com/tns-core-modules-widgets/-/tns-core-modules-widgets-3.4.0.tgz#3c1fa7f7f873e8508aa8cb6a866b1d8093279245"
+tns-core-modules-widgets@4.1.0:
+  version "4.1.0"
+  resolved "https://registry.yarnpkg.com/tns-core-modules-widgets/-/tns-core-modules-widgets-4.1.0.tgz#bfb706fb5f246d2f44e7c652dbe4564fdf9c0261"
 
-tns-core-modules@~3.4.1:
-  version "3.4.1"
-  resolved "https://registry.yarnpkg.com/tns-core-modules/-/tns-core-modules-3.4.1.tgz#be6882cd04127296e8803eeb10eb7ebfd9afe717"
+tns-core-modules@~4.1.1:
+  version "4.1.1"
+  resolved "https://registry.yarnpkg.com/tns-core-modules/-/tns-core-modules-4.1.1.tgz#df33f47d278de7e123a88ccbeea385131d548002"
   dependencies:
-    tns-core-modules-widgets "3.4.0"
+    tns-core-modules-widgets "4.1.0"
 
 to-arraybuffer@^1.0.0:
   version "1.0.1"

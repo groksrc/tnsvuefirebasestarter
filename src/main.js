@@ -1,11 +1,14 @@
 import Vue from 'nativescript-vue';
-import firebase from 'nativescript-plugin-firebase'
+
+import Home from './components/Home';
 
 import router from './router';
 
 import store from './store';
 
 import './styles.scss';
+
+import firebase from 'nativescript-plugin-firebase';
 
 firebase.init({
   onAuthStateChanged: data => { // optional
@@ -21,10 +24,14 @@ firebase.init({
   }
 );
 
+Vue.prototype.$firebase = firebase;
+
 // Uncommment the following to see NativeScript-Vue output logs
 //Vue.config.silent = false;
 
 new Vue({
+
+  render: h => h(Home),
 
   router,
 
